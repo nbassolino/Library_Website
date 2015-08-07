@@ -1,0 +1,27 @@
+.title{
+  font-size: 35px;
+  border: black 2px solid;
+  text-align: center;
+}
+.prompt{
+    font-size: 25px;
+    text-align: center;
+    text-justify: inter-word;
+    border: black 2px solid;
+    height: 350px;
+}
+.smile{
+  border: black 2px solid;
+  height : auto;
+  width : 100px;
+  
+}
+
+.answer2{
+  border: black 2px solid;
+  height: 140px;
+}
+.answer1{
+  border: black 2px solid;
+  height: 140px;
+}
